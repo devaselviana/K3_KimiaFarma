@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::get('/landingpage', function () {
     return view('landingpage');
 });
+
+
+Route::get('/dashboard', function () {
+    return view('dashboard.dashboard');
+})->name('dashboard');
