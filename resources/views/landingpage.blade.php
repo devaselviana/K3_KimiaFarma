@@ -79,11 +79,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="#about">Landasan Hukum</a></li>
           <li class="nav-item"><a class="nav-link" href="#about">Tentang</a></li>
           <li class="nav-item"><a class="nav-link" href="#policy">Kebijakan</a></li>
-          <li class="nav-item"><a class="nav-link" href="#emergency">Prosedur Darurat</a></li>
-          <li class="nav-item"><a class="nav-link" href="#contact">Kontak</a></li>
         </ul>
       </div>
     </div>
@@ -147,33 +144,6 @@
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- Prosedur Darurat -->
-  <section id="emergency" class="container py-5">
-    <h2 class="section-title">Prosedur Darurat</h2>
-    <p class="text-center">
-      Dalam keadaan darurat seperti kebakaran, tumpahan bahan kimia, atau kecelakaan kerja, setiap karyawan wajib mengikuti
-      prosedur yang telah ditetapkan oleh tim K3. Simulasi dan pelatihan rutin dilakukan untuk memastikan kesiapan seluruh tim.
-    </p>
-    <div class="text-center mt-4">
-      <a href="https://www.youtube.com/results?search_query=SOP+K3+Kimia+Farma" target="_blank" class="btn btn-danger">
-        Lihat Video SOP K3
-      </a>
-    </div>
-  </section>
-
-  <!-- Kontak -->
-  <section id="contact" class="bg-light py-5">
-    <div class="container text-center">
-      <h2 class="section-title">Kontak Kami</h2>
-      <p>Hubungi kami untuk informasi lebih lanjut mengenai implementasi K3 di lingkungan Kimia Farma.</p>
-      <ul class="list-unstyled">
-        <li>Email: <a href="mailto:k3@kimiafarma.co.id">k3@kimiafarma.co.id</a></li>
-        <li>Telepon: (021) 123-4567</li>
-        <li>Alamat: Jl. Veteran No. 9, Jakarta Pusat</li>
-      </ul>
     </div>
   </section>
 
