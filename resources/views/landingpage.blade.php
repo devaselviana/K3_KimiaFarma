@@ -97,6 +97,8 @@
   <section id="about" class="container py-5">
     <h2 class="section-title">Tentang K3 di Kimia Farma</h2>
     <p class="text-center">
+      PT Kimia Farma Sejahtera adalah bagian dari Kimia Farma Group yang bergerak di bidang industri manufaktur kimia dan layanan kesehatan. 
+      Produk yang dihasilkan antara lain cat, deterjen, pupuk, serta layanan kefarmasian di apotek. Perusahaan ini berperan penting namun juga memiliki risiko tinggi karena penggunaan Bahan Berbahaya dan Beracun (B3).
       Industri manufaktur kimia, seperti yang dijalankan oleh PT Kimia Farma Sejahtera, memegang peranan vital dalam perekonomian nasional dengan memproduksi cat, deterjen, dan pupuk. 
       Namun, proses produksi ini melibatkan penggunaan dan penanganan Bahan Berbahaya dan Beracun (B3) yang memiliki potensi risiko tinggi. 
       Risiko tersebut mencakup kecelakaan kerja akut seperti kebakaran, ledakan, dan tumpahan bahan kimia, serta risiko kesehatan jangka panjang bagi tenaga kerja akibat paparan kronis, seperti gangguan pernapasan, iritasi kulit, dan penyakit sistemik lainnya.
